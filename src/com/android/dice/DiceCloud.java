@@ -2,7 +2,6 @@ package com.android.dice;
 
 import com.android.dice.R;
 import android.app.Activity;
-import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -10,7 +9,6 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.TextView;
-import com.nduoa.synsdk.*;
 
 public class DiceCloud extends Activity implements View.OnClickListener{
 	/** Called when the activity is first created. */
