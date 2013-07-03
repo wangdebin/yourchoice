@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="affairs_cooking">做饭</string>
+	<string name="affairs_washing">洗衣服</string>
+	<string name="affairs_cleaning">打扫房间</string>
+	<string name="affairs_sleeping">睡觉</string>
+	<string name="affairs_shopping">购物</string>
+	<string name="affairs_noting">发呆</string>
+	<string name="affairs_gaming">游戏</string>
+	<string name="affairs_watching_movie">看电影</string>
+	<string name="affairs_walking">散步</string>
+	<string name="affairs_basketball">打篮球</string>
+	<string name="affairs_K">卡拉OK</string>
+	<string name="affairs_surfing">上网</string>
+	<string name="affairs_coding">敲代码</string>
+	<string name="affairs_anthing">爱干嘛干嘛</string>
+	<string name="affairs_chasing_after_girls">泡妞</string>
+	<string name="affairs_climbing">爬山</string>
+</resources>
